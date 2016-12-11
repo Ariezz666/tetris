@@ -1,4 +1,4 @@
-package com.javarush.test.level22.lesson18.big01;
+package tetris;
 
 /**
  * Клсс FigureFactory отвечает за создание объектов-фигурок.
